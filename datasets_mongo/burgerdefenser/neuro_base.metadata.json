@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"573437ddb2ec4131a52b8c6e04539b18","collectionName":"neuro_base","type":"collection"}
