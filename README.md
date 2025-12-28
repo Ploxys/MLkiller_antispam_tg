@@ -31,7 +31,11 @@
 
 ### 🚀 Обученные модели
 - Готовые обученные модели доступны по адресу:  
-  👉 **http://mlkiller.ru:2020/**
+  👉 **http://92.53.115.214:5000/MLPClassifier.sav**
+  👉 **http://92.53.115.214:5000/RidgeClassifier.sav**
+  👉 **http://92.53.115.214:5000/GradientBoostingRegressor.sav**
+  👉 **http://92.53.115.214:5000/RandomForestRegressor.sav**
+  👉 **http://92.53.115.214:5000/RidgeRegressor.sav**
 
 ---
 
